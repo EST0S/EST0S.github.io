@@ -7,6 +7,10 @@ p {
     text-align:left;
 }
 
+head {
+  text-align: left;
+}
+
 /* Button */
 .button-27 {
   appearance: none;
